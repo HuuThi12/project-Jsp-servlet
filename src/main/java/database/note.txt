@@ -1,0 +1,10 @@
+DAO : Data Access Object
+
+// select : lấy tất cả các đối tượng 
+// selectByid: Lấy đối tượng theo id
+// insert : thêm một đối tượng
+// update : cập nhật một đối tượng
+// delete : xóa một đối tượng
+
+
+// Khi bạn xóa 1 đơn hàng thì phải xóa lun chi tiết đơn hàng
